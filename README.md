@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman7214
 - 👀 I’m interested in Learning python
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently learning Python and React  
 - 💞️ I’m looking to collaborate on python Projects
 - 📫 How to reach me Via Gmail
 
