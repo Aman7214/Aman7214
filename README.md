@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aman7214
-- 👀 I’m interested in Learning python
-- 🌱 I’m currently learning Python and React  
-- 💞️ I’m looking to collaborate on python Projects
+- 👀 I’m interested in Learning Frontend development
+- 🌱 I’m currently learning VUE.JS and React.Js  
+- 💞️ I’m looking to collaborate on web development Projects
 - 📫 How to reach me Via Gmail
 
 <!---
